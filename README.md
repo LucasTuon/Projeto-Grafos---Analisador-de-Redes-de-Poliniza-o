@@ -52,3 +52,6 @@ Geração e exibição do grafo reduzido (também conhecido como grafo de conden
 - arp_app.h: Declarações das funções da aplicação e do menu interativo.
 
 - arp_app.cpp: Arquivo principal que contém a função main e a lógica para a interface de linha de comando.
+
+## Link para futuro vídeo
+https://www.youtube.com/@lucastuon
