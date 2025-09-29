@@ -1,3 +1,9 @@
+/*
+Integrantes:
+Lucas Tuon de Matos - 10417987
+Eduardo Oliveira Carvalho - 10417170
+*/
+
 #include "arp_app.h"
 
 extern float infinito;
@@ -391,3 +397,4 @@ void encerrar() {
     exit(0); 
     return;
 }
+
