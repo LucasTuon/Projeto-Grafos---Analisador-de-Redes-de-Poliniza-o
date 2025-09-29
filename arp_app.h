@@ -1,3 +1,9 @@
+/*
+Integrantes:
+Lucas Tuon de Matos - 10417987
+Eduardo Oliveira Carvalho - 10417170
+*/
+
 #ifndef ___ARP_APP___
 #define ___ARP_APP___
 
@@ -37,3 +43,4 @@ void encerrar();
 TGrafo *entrada_arquivo(std::string nome_arquivo); 
 bool saida_arquivo(std::string nome_arquivo);
 #endif
+
