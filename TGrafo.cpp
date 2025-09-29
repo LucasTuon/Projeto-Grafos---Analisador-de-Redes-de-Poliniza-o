@@ -1,3 +1,9 @@
+/*
+Integrantes:
+Lucas Tuon de Matos - 10417987
+Eduardo Oliveira Carvalho - 10417170
+*/
+
 #include "TGrafo.h"
 
 // variavel global que representa infinito positivo
@@ -417,3 +423,4 @@ TGrafo* TGrafo::grafo_reduzido() {
     }
     return grafoReduzido;
 }
+
