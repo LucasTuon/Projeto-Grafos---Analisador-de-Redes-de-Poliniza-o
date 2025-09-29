@@ -1,4 +1,10 @@
 /*
+Integrantes:
+Lucas Tuon de Matos - 10417987
+Eduardo Oliveira Carvalho - 10417170
+*/
+
+/*
 Implementacao de uma Classe para grafos denominada TGrafo,
 usando Matriz de Adjacencia
 e metodos para utilizacao de um grafo dirigido.
@@ -43,3 +49,4 @@ class TGrafo{
 };
 
 #endif
+
