@@ -1,6 +1,10 @@
-# Projeto-Grafos---Analisador-de-Redes-de-Polinização
+# Projeto Teoria dos Grafos - Analisador de Redes de Polinização
 
 Este repositório contém o código-fonte de uma aplicação em C++ para a criação, manipulação e análise de grafos dirigidos e valorados. A estrutura do grafo é implementada utilizando uma matriz de adjacência e a interação com o usuário é feita através de um menu de console interativo.
+
+Integrantes: 
+- Lucas Tuon de Matos        - 10417987
+- Eduardo Oliveira Carvalho  - 10417170
 
 ## Tema
 O objetivo principal do projeto é fornecer uma ferramenta para estudar algoritmos de grafos. A classe TGrafo encapsula a lógica da estrutura de dados, enquanto a aplicação oferece uma interface para que o usuário possa testar as funcionalidades de forma prática, seja criando um grafo do zero ou carregando um a partir de um arquivo.
